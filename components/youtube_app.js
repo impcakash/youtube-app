@@ -1,5 +1,8 @@
 // console.log("Welcome to Youtube App");
 
+// Youtube API: https://developers.google.com/youtube/v3/getting-started  
+// first create youtube API from the above given link then paste it in {`[YOUR_API_KEY]`}
+
 async function searchVideo() {
     // console.log('Search button clicked');
 
